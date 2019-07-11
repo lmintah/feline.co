@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/feline.co/static/css/main.e6cdbbf2.chunk.css",
+    "main.js": "/feline.co/static/js/main.f27cc3fb.chunk.js",
+    "main.js.map": "/feline.co/static/js/main.f27cc3fb.chunk.js.map",
+    "runtime~main.js": "/feline.co/static/js/runtime~main.90a8c801.js",
+    "runtime~main.js.map": "/feline.co/static/js/runtime~main.90a8c801.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/feline.co/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.1a543e43.chunk.js": "/feline.co/static/js/2.1a543e43.chunk.js",
+    "static/js/2.1a543e43.chunk.js.map": "/feline.co/static/js/2.1a543e43.chunk.js.map",
+    "index.html": "/feline.co/index.html",
+    "precache-manifest.079478b061a3e561f27dd239b9d6f476.js": "/feline.co/precache-manifest.079478b061a3e561f27dd239b9d6f476.js",
+    "service-worker.js": "/feline.co/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/feline.co/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.e6cdbbf2.chunk.css.map": "/feline.co/static/css/main.e6cdbbf2.chunk.css.map",
+    "static/media/App.css": "/feline.co/static/media/Team 401.bcfa3a41.woff"
+  }
+}
